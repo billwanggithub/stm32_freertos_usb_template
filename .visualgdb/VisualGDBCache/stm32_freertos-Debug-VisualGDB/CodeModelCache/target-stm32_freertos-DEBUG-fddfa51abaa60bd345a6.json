@@ -352,7 +352,8 @@
 				67,
 				68,
 				69,
-				70
+				70,
+				71
 			]
 		}
 	],
@@ -549,6 +550,12 @@
 			"backtrace" : 6,
 			"isGenerated" : true,
 			"path" : "build/VisualGDB/Debug/CMakeFiles/BSP.dir/Core/Src/stm32f4xx_hal_msp.c.obj",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 6,
+			"isGenerated" : true,
+			"path" : "build/VisualGDB/Debug/CMakeFiles/BSP.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj",
 			"sourceGroupIndex" : 2
 		},
 		{
