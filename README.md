@@ -1,5 +1,11 @@
 # STM32 FreeRTOS/USB Composite Device(CDC+HID) Template
 
+## IDE & Package
+
+- Visual Studio + VisualGDB
+- STM32CubeMX
+- [I-CUBE-USBD-Composite](https://github.com/alambe94/I-CUBE-USBD-Composite#i-cube-usbd-composite)
+
 ## USB Init
 
 - ***Enable Usb Interrupt***
