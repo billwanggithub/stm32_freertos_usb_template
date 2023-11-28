@@ -127,7 +127,8 @@
 			"target_compile_options",
 			"set_bsp_core_properties_from_vars",
 			"target_compile_definitions",
-			"target_include_directories"
+			"target_include_directories",
+			"bsp_include_directories"
 		],
 		"files" : 
 		[
@@ -180,6 +181,18 @@
 				"file" : 0,
 				"line" : 65,
 				"parent" : 4
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 437,
+				"parent" : 8
 			}
 		]
 	},
@@ -272,6 +285,18 @@
 				{
 					"backtrace" : 7,
 					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/CDC_ACM/Inc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/."
+				},
+				{
+					"backtrace" : 9,
+					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/FreeRTOS/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/FreeRTOS/portable/GCC/ARM_CM4F"
 				}
 			],
 			"language" : "C",
@@ -403,6 +428,18 @@
 				{
 					"backtrace" : 7,
 					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/CDC_ACM/Inc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/."
+				},
+				{
+					"backtrace" : 9,
+					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/FreeRTOS/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/FreeRTOS/portable/GCC/ARM_CM4F"
 				}
 			],
 			"language" : "ASM",

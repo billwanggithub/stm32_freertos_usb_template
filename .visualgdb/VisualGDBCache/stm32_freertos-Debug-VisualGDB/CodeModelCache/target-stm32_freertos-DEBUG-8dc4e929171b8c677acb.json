@@ -29,7 +29,7 @@
 			{
 				"command" : 1,
 				"file" : 1,
-				"line" : 7,
+				"line" : 8,
 				"parent" : 0
 			},
 			{
@@ -65,7 +65,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 46,
+				"line" : 47,
 				"parent" : 0
 			}
 		]
@@ -167,6 +167,10 @@
 				{
 					"backtrace" : 6,
 					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/CDC_ACM/Inc"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/."
 				}
 			],
 			"language" : "C",

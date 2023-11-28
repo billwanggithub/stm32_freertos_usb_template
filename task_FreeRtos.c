@@ -1,4 +1,6 @@
 #include "task_FreeRtos.h"
+#include "usb_device.h"
+#include "usb_otg.h"
 
 void vApplicationMallocFailedHook(void)
 {
@@ -38,6 +40,10 @@ void Blink1_Task(void *pvParameters)
 {
 	TickType_t xlastFlashTime;
 	xlastFlashTime = xTaskGetTickCount();
+	
+		MX_USB_OTG_FS_PCD_Init();
+	MX_USB_DEVICE_Init();
+	
 	while (1) {
 		vTaskDelayUntil(&xlastFlashTime, 500);
 		HAL_GPIO_TogglePin(LED_GPIO_Port, LED_Pin);

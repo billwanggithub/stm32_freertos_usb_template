@@ -4,6 +4,7 @@ project(stm32_freertos LANGUAGES C CXX ASM)
 
 find_bsp(ID com.sysprogs.project_importers.stm32.cubemx SOURCE_PROJECT stm32_freertos.ioc)
 
+bsp_include_directories(. FreeRTOS/include FreeRTOS/portable/GCC/ARM_CM4F)
 add_bsp_based_executable(
 	NAME stm32_freertos
 	GENERATE_BIN
@@ -44,3 +45,4 @@ add_bsp_based_executable(
 		${BSP_ROOT}/task_FreeRtos.h)
 
 target_include_directories(stm32_freertos PRIVATE FreeRTOS/include FreeRTOS/portable/GCC/ARM_CM4F)
+set_source_files_properties(${BSP_ROOT}/task_FreeRtos.h PROPERTIES HEADER_FILE_ONLY TRUE)
