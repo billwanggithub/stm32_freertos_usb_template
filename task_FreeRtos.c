@@ -44,8 +44,34 @@ void Blink1_Task(void *pvParameters)
 	MX_USB_OTG_FS_PCD_Init();
 	MX_USB_DEVICE_Init();
 	
+	uint16_t period = 33; // 1/30 Hz
+	uint16_t duty = 0;
+	int8_t direction = 1;
 	while (1) {
-		vTaskDelayUntil(&xlastFlashTime, 500);
-		HAL_GPIO_TogglePin(LED_GPIO_Port, LED_Pin);
+		// 呼吸燈
+		HAL_GPIO_WritePin(LED_GPIO_Port, LED_Pin, 1);		
+		vTaskDelay(duty);		
+		//vTaskDelayUntil(&xlastFlashTime, duty++);
+		HAL_GPIO_WritePin(LED_GPIO_Port, LED_Pin, 0);		
+		vTaskDelay(period-duty);
+		//vTaskDelayUntil(&xlastFlashTime, 255);
+		if (direction >= 0)
+		{
+			duty += 1;
+			if ( duty >= period)			
+			{
+				direction = -1;
+				duty = period;
+			}
+		}
+		else
+		{
+			duty -= 1;
+			if ( duty <= 0)
+			{
+				direction = 1;
+				duty = 0;
+			}			
+		}
 	}
 }

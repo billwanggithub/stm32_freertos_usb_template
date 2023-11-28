@@ -114,63 +114,63 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/FreeRTOS/include"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/FreeRTOS/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/FreeRTOS/portable/GCC/ARM_CM4F"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/FreeRTOS/portable/GCC/ARM_CM4F"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Core/Inc"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Core/Inc"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Composite"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Composite"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Drivers/CMSIS/Include"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/COMPOSITE/Inc"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/COMPOSITE/Inc"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/HID_CUSTOM/Inc"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/HID_CUSTOM/Inc"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/App"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/App"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Core/Inc"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Core/Inc"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Target"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Target"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/CDC_ACM/Inc"
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/Middlewares/Third_Party/AL94_USB_Composite/COMPOSITE/Class/CDC_ACM/Inc"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/."
+					"path" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/."
 				}
 			],
 			"language" : "C",
@@ -211,7 +211,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-\"TD:/github/STM32_Template/FreeRTOS/stm32_freertos/STM32F411CEUX_FLASH.ld\"",
+				"fragment" : "-\"TD:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/STM32F411CEUX_FLASH.ld\"",
 				"role" : "libraries"
 			},
 			{
@@ -249,7 +249,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-\"TD:/github/STM32_Template/FreeRTOS/stm32_freertos/STM32F411CEUX_FLASH.ld\""
+				"fragment" : "-\"TD:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/STM32F411CEUX_FLASH.ld\""
 			},
 			{
 				"backtrace" : 5,

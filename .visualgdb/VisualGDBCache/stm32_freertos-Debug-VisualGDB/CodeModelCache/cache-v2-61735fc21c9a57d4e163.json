@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/STM32F411CEUX_FLASH.ld"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/STM32F411CEUX_FLASH.ld"
 		},
 		{
 			"name" : "BSP_ROOT",
@@ -47,7 +47,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -243,7 +243,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/github/STM32_Template/FreeRTOS/stm32_freertos/build/VisualGDB/Debug"
+			"value" : "d:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/build/VisualGDB/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -767,7 +767,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1259,7 +1259,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/build/VisualGDB/Debug/toolchain.cmake"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/build/VisualGDB/Debug/toolchain.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1347,7 +1347,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/stm32_freertos.ioc"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/stm32_freertos.ioc"
 		},
 		{
 			"name" : "_BSP_CONFIGURATOR_ID",
@@ -1383,7 +1383,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/build/VisualGDB/Debug/BSP.cmake"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/build/VisualGDB/Debug/BSP.cmake"
 		},
 		{
 			"name" : "_BSP_ID",
@@ -1431,7 +1431,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template"
 		},
 		{
 			"name" : "_BSP_VERSION",
@@ -1455,7 +1455,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/build/VisualGDB/Debug"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/build/VisualGDB/Debug"
 		},
 		{
 			"name" : "stm32_freertos_BSP_ALIAS",
@@ -1503,7 +1503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/STM32F411CEUX_FLASH.ld"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/STM32F411CEUX_FLASH.ld"
 		},
 		{
 			"name" : "stm32_freertos_SOURCE_DIR",
@@ -1515,7 +1515,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos"
+			"value" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template"
 		}
 	],
 	"kind" : "cache",

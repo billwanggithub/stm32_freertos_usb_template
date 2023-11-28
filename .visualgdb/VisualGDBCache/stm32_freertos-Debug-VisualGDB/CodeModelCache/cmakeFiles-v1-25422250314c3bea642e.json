@@ -1187,8 +1187,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/build/VisualGDB/Debug",
-		"source" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos"
+		"build" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/build/VisualGDB/Debug",
+		"source" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template"
 	},
 	"version" : 
 	{

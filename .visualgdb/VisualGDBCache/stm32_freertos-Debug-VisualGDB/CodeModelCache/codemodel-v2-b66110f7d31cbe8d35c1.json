@@ -42,14 +42,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "BSP::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BSP-DEBUG-a30b4ef068a57fee99f5.json",
+					"jsonFile" : "target-BSP-DEBUG-0475de4240fb35e28bc7.json",
 					"name" : "BSP",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "stm32_freertos::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-stm32_freertos-DEBUG-fddfa51abaa60bd345a6.json",
+					"jsonFile" : "target-stm32_freertos-DEBUG-d902dbbe498ae7fb2449.json",
 					"name" : "stm32_freertos",
 					"projectIndex" : 0
 				},
@@ -66,8 +66,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos/build/VisualGDB/Debug",
-		"source" : "D:/github/STM32_Template/FreeRTOS/stm32_freertos"
+		"build" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template/build/VisualGDB/Debug",
+		"source" : "D:/github/STM32/STM32_Template/FreeRTOS_USB/stm32_freertos_usb_template"
 	},
 	"version" : 
 	{
