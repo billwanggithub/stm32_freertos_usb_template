@@ -20,7 +20,7 @@
 
 - ***Copy Modify Composite/Middlewares folder to overwrite the origonal***
 
-## Porting FreeRTOS when using with USB
+## Porting FreeRTOS(v202212.01) when using with USB
 
 - ***Copy FreeRTOS folder to project***
 - ***Copy `FreeRTOSConfig.h` to project***
