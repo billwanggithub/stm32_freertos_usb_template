@@ -277,7 +277,6 @@
 			"language" : "C",
 			"sourceIndexes" : 
 			[
-				72,
 				73,
 				74,
 				75,
@@ -285,7 +284,7 @@
 				77,
 				78,
 				79,
-				81,
+				80,
 				82,
 				83,
 				84,
@@ -313,7 +312,8 @@
 				106,
 				107,
 				108,
-				109
+				109,
+				110
 			]
 		},
 		{
@@ -408,7 +408,7 @@
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				80
+				81
 			]
 		}
 	],
@@ -496,14 +496,14 @@
 				68,
 				69,
 				70,
-				71
+				71,
+				72
 			]
 		},
 		{
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				72,
 				73,
 				74,
 				75,
@@ -511,7 +511,7 @@
 				77,
 				78,
 				79,
-				81,
+				80,
 				82,
 				83,
 				84,
@@ -539,19 +539,25 @@
 				106,
 				107,
 				108,
-				109
+				109,
+				110
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				80
+				81
 			]
 		}
 	],
 	"sources" : 
 	[
+		{
+			"backtrace" : 3,
+			"path" : "Core/Inc/FreeRTOSConfig.h",
+			"sourceGroupIndex" : 0
+		},
 		{
 			"backtrace" : 3,
 			"path" : "Core/Inc/gpio.h",

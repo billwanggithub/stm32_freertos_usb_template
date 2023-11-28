@@ -42,14 +42,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "BSP::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BSP-DEBUG-7c842a36d73734c98ed8.json",
+					"jsonFile" : "target-BSP-DEBUG-de72862dc7b8e059582b.json",
 					"name" : "BSP",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "stm32_freertos::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-stm32_freertos-DEBUG-21148f002466fb7685ee.json",
+					"jsonFile" : "target-stm32_freertos-DEBUG-29401aa0e5d28003d36b.json",
 					"name" : "stm32_freertos",
 					"projectIndex" : 0
 				},
