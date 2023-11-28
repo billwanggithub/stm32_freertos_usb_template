@@ -41,7 +41,7 @@ void Blink1_Task(void *pvParameters)
 	TickType_t xlastFlashTime;
 	xlastFlashTime = xTaskGetTickCount();
 	
-		MX_USB_OTG_FS_PCD_Init();
+	MX_USB_OTG_FS_PCD_Init();
 	MX_USB_DEVICE_Init();
 	
 	while (1) {
